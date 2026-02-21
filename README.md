@@ -1,1 +1,1 @@
-<p>ai-emotion-detecto</p>
+<p>ai-emotion-detector</p>
